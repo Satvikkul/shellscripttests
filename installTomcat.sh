@@ -1,3 +1,4 @@
+#!bin/sh
 
 echo "Checking Internet Connection..."
 sleep 1
