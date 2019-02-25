@@ -1,5 +1,5 @@
+#!bin/sh
 
-#echo "Hello, world!"
 
 echo "now installing nginx......\n"
 
